@@ -15,6 +15,12 @@
             <class name="test_cases.ProceedToCheckout">
             </class>
 
+            <class name="test_cases.VerifyAccountReg">
+            </class>
+
+            <class name="test_cases.VerifyLoginWithUsername">
+            </class>
+
         </classes>
     </test>
 </suite>
